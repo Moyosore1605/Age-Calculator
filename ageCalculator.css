@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin-bottom:10px;
+}
+button{
+    background-color:green;
+    border-radius:5px;
+    padding:5px;
+    border: none;
+}
